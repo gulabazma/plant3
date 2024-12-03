@@ -7,7 +7,7 @@
         "SunlightRequirement": "Indirect sunlight",
         "SoilType": "Well-draining soil",
         "IdealTemperature": "60-85°F",
-        "PlantImage": "snake"
+        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/.jpg"
     },
     {
         "PlantName": "Spider Plant",
@@ -17,7 +17,7 @@
         "SunlightRequirement": "Bright, indirect light",
         "SoilType": "All-purpose potting soil",
         "IdealTemperature": "55-65°F",
-        "PlantImage": "spider"
+        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/spider.jpg"
     },
     {
         "PlantName": "Aloe Vera",
@@ -27,7 +27,7 @@
         "SunlightRequirement": "Bright, indirect light",
         "SoilType": "All-draining cactus mix",
         "IdealTemperature": "55-80°F",
-        "PlantImage": "aloe"
+        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/Aloe.jpg"
     },
     {
         "PlantName": "Peace Lily",
@@ -37,7 +37,7 @@
         "SunlightRequirement": "Low to medium indirect light",
         "SoilType": "Well-draining potting soil",
         "IdealTemperature": "65-80°F",
-        "PlantImage": "lily"
+        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/lily.jpeg"
     },
     {
         "PlantName": "Boston Fern",
@@ -47,6 +47,6 @@
         "SunlightRequirement": "Indirect light",
         "SoilType": "Rich, well-draining potting soil",
         "IdealTemperature": "60-75°F",
-        "PlantImage": "boston"
+        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/boston.jpeg"
     }
 ]
