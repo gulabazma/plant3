@@ -1,0 +1,54 @@
+let plant1 = Plant()
+            plant1.PlantName = "Snake Plant"
+            plant1.PlantDescription = "A low-maintenance plant with tall, dark green leaves."
+            plant1.PlantType = "Plant Type: Succulent"
+            plant1.WateringSchedule = "Water once every 2 weeks"
+            plant1.SunlightRequirement = "Indirect sunlight"
+            plant1.SoilType = "Soil type: Well-draining soil"
+            plant1.IdealTemperature = "60-85°F"
+            plant1.plantImage = "snake"
+            PlantArray.append(plant1)
+            
+            let plant2 = Plant()
+            plant2.PlantName = "Spider Plant"
+            plant2.PlantDescription = "An easy-care plant that produces spider-like shoots."
+            plant2.PlantType = "Air Purifier"
+            plant2.WateringSchedule = "Water once a week"
+            plant2.SunlightRequirement = "Bright, indirect light"
+            plant2.SoilType = "Soil type: All-purpose potting soil"
+            plant2.IdealTemperature = "55-65°F"
+            plant2.plantImage = "spider"
+            PlantArray.append(plant2)
+            
+            let plant3 = Plant()
+            plant3.PlantName = "Aloe Vera"
+            plant3.PlantDescription = "A succulent plant species of the genus Aloe, known for its medical properties."
+            plant3.PlantType = "Succulent"
+            plant3.WateringSchedule = "Water once every 3 weeks"
+            plant3.SunlightRequirement = "Bright, indirect light"
+            plant3.SoilType = "All-draining cactus mix"
+            plant3.IdealTemperature = "55-80°F"
+            plant3.plantImage = "Aloe"
+            PlantArray.append(plant3)
+            
+            let plant4 = Plant()
+            plant4.PlantName = "Peace Lily"
+            plant4.PlantDescription = "A popular indoor plant with large, glossy leaves and white flowers that thrive in low light."
+            plant4.PlantType = "Flowering Plant"
+            plant4.WateringSchedule = "Water once a week"
+            plant4.SunlightRequirement = "Low to medium indirect light"
+            plant4.SoilType = "Soil type: Well-draining potting soil"
+            plant4.IdealTemperature = "65-80°F"
+            plant4.plantImage = "lily"
+            PlantArray.append(plant4)
+            
+            let plant5 = Plant()
+            plant5.PlantName = "Boston Fern"
+            plant5.PlantDescription = "A lush fern that adds a soft green touch to any room, known for its air-purifying abilities."
+            plant5.PlantType = "Fern"
+            plant5.WateringSchedule = "Keep soil moist"
+            plant5.SunlightRequirement = "Indirect light"
+            plant5.SoilType = "Soil type: Rich, well-draining potting soil"
+            plant5.IdealTemperature = "60-75°F"
+            plant5.plantImage = "boston"
+            PlantArray.append(plant5)
