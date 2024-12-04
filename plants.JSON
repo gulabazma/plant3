@@ -1,52 +1,54 @@
-[
-    {
-        "PlantName": "Snake Plant",
-        "PlantDescription": "A low-maintenance plant with tall, dark green leaves.",
-        "PlantType": "Succulent",
-        "WateringSchedule": "Water once every 2 weeks",
-        "SunlightRequirement": "Indirect sunlight",
-        "SoilType": "Well-draining soil",
-        "IdealTemperature": "60-85°F",
-        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/snake1.jpeg"
-    },
-    {
-        "PlantName": "Spider Plant",
-        "PlantDescription": "An easy-care plant that produces spider-like shoots.",
-        "PlantType": "Air Purifier",
-        "WateringSchedule": "Water once a week",
-        "SunlightRequirement": "Bright, indirect light",
-        "SoilType": "All-purpose potting soil",
-        "IdealTemperature": "55-65°F",
-        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/spider.jpg"
-    },
-    {
-        "PlantName": "Aloe Vera",
-        "PlantDescription": "An succulent plant species of the genus Aloe, known for its medical properties.",
-        "PlantType": "Succulent",
-        "WateringSchedule": "Water once every 3 weeks",
-        "SunlightRequirement": "Bright, indirect light",
-        "SoilType": "All-draining cactus mix",
-        "IdealTemperature": "55-80°F",
-        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/Aloe.jpg"
-    },
-    {
-        "PlantName": "Peace Lily",
-        "PlantDescription": "A popular indoor plant with large, glossy leaves and white flowers that thrive in low light.",
-        "PlantType": "Flowering Plant",
-        "WateringSchedule": "Water once a week",
-        "SunlightRequirement": "Low to medium indirect light",
-        "SoilType": "Well-draining potting soil",
-        "IdealTemperature": "65-80°F",
-        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/lily.jpeg"
-    },
-    {
-        "PlantName": "Boston Fern",
-        "PlantDescription": "A lush fern that adds a soft green touch to any room, known for its air-purifying abilities.",
-        "PlantType": "Fern",
-        "WateringSchedule": "Keep soil moist",
-        "SunlightRequirement": "Indirect light",
-        "SoilType": "Rich, well-draining potting soil",
-        "IdealTemperature": "60-75°F",
-        "PlantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/boston.jpeg"
-    }
-]
+{
+    "plants": [
+        {
+            "PlantName": "Snake Plant",
+            "PlantDescription": "A low-maintenance plant with tall, dark green leaves.",
+            "PlantType": "Succulent",
+            "WateringSchedule": "Water once every 2 weeks",
+            "SunlightRequirement": "Indirect sunlight",
+            "SoilType": "Well-draining soil",
+            "IdealTemperature": "60-85°F",
+            "plantImage": "snake"
+        },
+        {
+            "PlantName": "Spider Plant",
+            "PlantDescription": "An easy-care plant that produces spider-like shoots.",
+            "PlantType": "Air Purifier",
+            "WateringSchedule": "Water once a week",
+            "SunlightRequirement": "Bright, indirect light",
+            "SoilType": "All-purpose potting soil",
+            "IdealTemperature": "55-65°F",
+            "plantImage": "spider"
+        },
+        {
+            "PlantName": "Aloe Vera",
+            "PlantDescription": "A succulent plant species of the genus Aloe, known for its medical properties.",
+            "PlantType": "Succulent",
+            "WateringSchedule": "Water once every 3 weeks",
+            "SunlightRequirement": "Bright, indirect light",
+            "SoilType": "All-draining cactus mix",
+            "IdealTemperature": "55-80°F",
+            "plantImage": "aloe"
+        },
+        {
+            "PlantName": "Peace Lily",
+            "PlantDescription": "A popular indoor plant with large, glossy leaves and white flowers that thrive in low light.",
+            "PlantType": "Flowering Plant",
+            "WateringSchedule": "Water once a week",
+            "SunlightRequirement": "Low to medium indirect light",
+            "SoilType": "Well-draining potting soil",
+            "IdealTemperature": "65-80°F",
+            "plantImage": "lily"
+        },
+        {
+            "PlantName": "Boston Fern",
+            "PlantDescription": "A lush fern that adds a soft green touch to any room, known for its air-purifying abilities.",
+            "PlantType": "Fern",
+            "WateringSchedule": "Keep soil moist",
+            "SunlightRequirement": "Indirect light",
+            "SoilType": "Rich, well-draining potting soil",
+            "IdealTemperature": "60-75°F",
+            "plantImage": "boston"
+        }
+    ]
+}
