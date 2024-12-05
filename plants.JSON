@@ -8,7 +8,8 @@
             "SunlightRequirement": "Indirect sunlight",
             "SoilType": "Well-draining soil",
             "IdealTemperature": "60-85°F",
-            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/snake1.jpeg"
+            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/snake1.jpeg",
+            "PlantWebSite": "https://www.thespruce.com/snake-plant-care-overview-1902772"
         },
         {
             "PlantName": "Spider Plant",
@@ -18,7 +19,8 @@
             "SunlightRequirement": "Bright, indirect light",
             "SoilType": "All-purpose potting soil",
             "IdealTemperature": "55-65°F",
-            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/spider.jpg"
+            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/spider.jpg",
+            "PlantWebSite": "https://www.thespruce.com/spider-plant-care-1902774"
         },
         {
             "PlantName": "Aloe Vera",
@@ -28,7 +30,8 @@
             "SunlightRequirement": "Bright, indirect light",
             "SoilType": "All-draining cactus mix",
             "IdealTemperature": "55-80°F",
-            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/Aloe.jpg"
+            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/Aloe.jpg",
+            "PlantWebSite": "https://www.thespruce.com/aloe-vera-plant-care-1902775"
         },
         {
             "PlantName": "Peace Lily",
@@ -38,7 +41,8 @@
             "SunlightRequirement": "Low to medium indirect light",
             "SoilType": "Well-draining potting soil",
             "IdealTemperature": "65-80°F",
-            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/lily.jpeg"
+            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/lily.jpeg",
+            "PlantWebSite": "https://www.thespruce.com/peace-lily-care-1902776"
         },
         {
             "PlantName": "Boston Fern",
@@ -48,7 +52,8 @@
             "SunlightRequirement": "Indirect light",
             "SoilType": "Rich, well-draining potting soil",
             "IdealTemperature": "60-75°F",
-            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/boston.jpeg"
+            "plantImage": "https://raw.githubusercontent.com/gulabazma/plant3/refs/heads/main/boston.jpeg",
+            "PlantWebSite": "https://www.thespruce.com/boston-fern-care-1902777"
         }
     ]
 }
